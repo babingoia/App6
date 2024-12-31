@@ -5,6 +5,7 @@
 
     <StackLayout>
         <Label></Label>
+        <Button></Button>
     </StackLayout>
 
 </ContentPage>
